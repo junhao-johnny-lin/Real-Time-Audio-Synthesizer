@@ -1,0 +1,748 @@
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (3 ms)
+Loading the tools information
+Finished loading the tools information (43 ms)
+From ModusToolbox Tools version 3.5.0.0 installed at C:/Users/Hansv/ModusToolbox/tools_3.5, using
+ airoc-tools version 5.0.1.207
+ bsp-assistant version 1.40.0.2609
+ bt-configurator version 3.30.0.3160
+ capsense-configurator version 8.0.0.8913
+ cymcuelftool version 1.0.0.62
+ dashboard version 3.5.0.318
+ device-configurator version 5.30.0.3186
+ dfuh-tool version 2.70.0.2722
+ ez-pd-configurator version 2.11.0.2231
+ hardware-config-server version 1.3.0.1635
+ lcs-manager-cli version 1.30.0.323
+ library-manager version 2.40.0.4456
+ lin-configurator version 1.60.0.2198
+ make version 2.5.0.6782
+ modus-shell version 1.5.0.123
+ mtb-settings version 1.0.0.184
+ mtbarchive version 1.5.0.3759
+ mtbgetlibs version 1.5.0.3745
+ mtbideexport version 1.4.0.297
+ mtblaunch version 1.5.0.3745
+ mtbninja version 1.5.0.3745
+ mtbquery version 1.5.0.3745
+ mtbsearch version 1.5.0.3745
+ ninja version 1.12.1
+ project-creator version 2.40.0.4895
+ proxy-helper version 1.70.0.407
+ qspi-configurator version 4.50.0.2481
+ seglcd-configurator version 1.80.0.2081
+ signcombinemkgen version 1.1.0.297
+ smartio-configurator version 4.40.0.1647
+ srecord version 1.64.0.15
+ usbdev-configurator version 2.90.0.2150
+Using ModusToolbox Pack ModusToolbox Edge Protect Security Suite version 1.3.0.234 installed at C:/Users/Hansv/Infineon/Tools/ModusToolbox-Edge-Protect-Security-Suite-1.3
+Loading the manifest data
+Online Content mode has been enabled by default.
+Loading super manfiest files from all sources
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-t2g-ce-manifest/raw/main/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/rtlabs-com/mtb-rtlabs-manifest/raw/main/mtb-ce-manifest-fv2-rtlabs.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-t2g-mw-manifest/raw/main/mtb-t2g-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-t2g-mw-manifest/raw/main/mtb-t2g-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/rtlabs-com/mtb-rtlabs-manifest/raw/main/rtlabs-mtb-mw-manifest-fw2-rtlabs.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-t2g-ce-manifest/raw/main/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/rtlabs-com/mtb-rtlabs-manifest/raw/main/mtb-ce-manifest-fv2-rtlabs.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-t2g-mw-manifest/raw/main/mtb-t2g-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-t2g-mw-manifest/raw/main/mtb-t2g-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/rtlabs-com/mtb-rtlabs-manifest/raw/main/rtlabs-mtb-mw-manifest-fw2-rtlabs.xml'
+Finished loading the manifest data (2150 ms)
+0 error(s), 0 warning(s)
+
+Summary: 
+
+BSP: CY8CKIT-062-WIFI-BT
+Template Application(s): Empty App
+Application(s) Root Path: C:/Fork/project2-synthesizer-team-jojo
+
+Press "Create" to create the selected application(s).
+
+Collecting application data...
+
+Info: The following entered on the command line will create the exact same project as that created with the GUI tool:
+C:/Users/Hansv/ModusToolbox/tools_3.5/project-creator/project-creator-cli.exe --board-id CY8CKIT-062-WIFI-BT --board-uri https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-062-WIFI-BT --board-commit latest-v5.X --app-id mtb-example-empty-app --app-uri https://github.com/Infineon/mtb-example-empty-app --app-commit release-v4.9.1 --target-dir C:/Fork/project2-synthesizer-team-jojo --user-app-name Sythesizer --use-modus-shell
+Starting application creation for 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer'.
+Acquiring the application source 'https://github.com/Infineon/mtb-example-empty-app'.
+Git#0>Cloning into 'Sythesizer'...
+Git#0>remote: Enumerating objects: 46, done.        
+Git#0>remote: Counting objects:   3% (1/31)        
+Git#0>remote: Counting objects:   6% (2/31)        
+Git#0>remote: Counting objects:   9% (3/31)        
+Git#0>remote: Counting objects:  12% (4/31)        
+Git#0>remote: Counting objects:  16% (5/31)        
+Git#0>remote: Counting objects:  19% (6/31)        
+Git#0>remote: Counting objects:  22% (7/31)        
+Git#0>remote: Counting objects:  25% (8/31)        
+Git#0>remote: Counting objects:  29% (9/31)        
+Git#0>remote: Counting objects:  32% (10/31)        
+Git#0>remote: Counting objects:  35% (11/31)        
+Git#0>remote: Counting objects:  38% (12/31)        
+Git#0>remote: Counting objects:  41% (13/31)        
+Git#0>remote: Counting objects:  45% (14/31)        
+Git#0>remote: Counting objects:  48% (15/31)        
+Git#0>remote: Counting objects:  51% (16/31)        
+Git#0>remote: Counting objects:  54% (17/31)        
+Git#0>remote: Counting objects:  58% (18/31)        
+Git#0>remote: Counting objects:  61% (19/31)        
+Git#0>remote: Counting objects:  64% (20/31)        
+Git#0>remote: Counting objects:  67% (21/31)        
+Git#0>remote: Counting objects:  70% (22/31)        
+Git#0>remote: Counting objects:  74% (23/31)        
+Git#0>remote: Counting objects:  77% (24/31)        
+Git#0>remote: Counting objects:  80% (25/31)        
+Git#0>remote: Counting objects:  83% (26/31)        
+Git#0>remote: Counting objects:  87% (27/31)        
+Git#0>remote: Counting objects:  90% (28/31)        
+Git#0>remote: Counting objects:  93% (29/31)        
+Git#0>remote: Counting objects:  96% (30/31)        
+Git#0>remote: Counting objects: 100% (31/31)        
+Git#0>remote: Counting objects: 100% (31/31), done.        
+Git#0>remote: Compressing objects:   3% (1/26)        
+Git#0>remote: Compressing objects:   7% (2/26)        
+Git#0>remote: Compressing objects:  11% (3/26)        
+Git#0>remote: Compressing objects:  15% (4/26)        
+Git#0>remote: Compressing objects:  19% (5/26)        
+Git#0>remote: Compressing objects:  23% (6/26)        
+Git#0>remote: Compressing objects:  26% (7/26)        
+Git#0>remote: Compressing objects:  30% (8/26)        
+Git#0>remote: Compressing objects:  34% (9/26)        
+Git#0>remote: Compressing objects:  38% (10/26)        
+Git#0>remote: Compressing objects:  42% (11/26)        
+Git#0>remote: Compressing objects:  46% (12/26)        
+Git#0>remote: Compressing objects:  50% (13/26)        
+Git#0>remote: Compressing objects:  53% (14/26)        
+Git#0>remote: Compressing objects:  57% (15/26)        
+Git#0>remote: Compressing objects:  61% (16/26)        
+Git#0>remote: Compressing objects:  65% (17/26)        
+Git#0>remote: Compressing objects:  69% (18/26)        
+Git#0>remote: Compressing objects:  73% (19/26)        
+Git#0>remote: Compressing objects:  76% (20/26)        
+Git#0>remote: Compressing objects:  80% (21/26)        
+Git#0>remote: Compressing objects:  84% (22/26)        
+Git#0>remote: Compressing objects:  88% (23/26)        
+Git#0>remote: Compressing objects:  92% (24/26)        
+Git#0>remote: Compressing objects:  96% (25/26)        
+Git#0>remote: Compressing objects: 100% (26/26)        
+Git#0>remote: Compressing objects: 100% (26/26), done.        
+Git#0>remote: Total 46 (delta 10), reused 24 (delta 5), pack-reused 15 (from 1)        
+Git#0>Receiving objects:   2% (1/46)
+Git#0>Receiving objects:   4% (2/46)
+Git#0>Receiving objects:   6% (3/46)
+Git#0>Receiving objects:   8% (4/46)
+Git#0>Receiving objects:  10% (5/46)
+Git#0>Receiving objects:  13% (6/46)
+Git#0>Receiving objects:  15% (7/46)
+Git#0>Receiving objects:  17% (8/46)
+Git#0>Receiving objects:  19% (9/46)
+Git#0>Receiving objects:  21% (10/46)
+Git#0>Receiving objects:  23% (11/46)
+Git#0>Receiving objects:  26% (12/46)
+Git#0>Receiving objects:  28% (13/46)
+Git#0>Receiving objects:  30% (14/46)
+Git#0>Receiving objects:  32% (15/46)
+Git#0>Receiving objects:  34% (16/46)
+Git#0>Receiving objects:  36% (17/46)
+Git#0>Receiving objects:  39% (18/46)
+Git#0>Receiving objects:  41% (19/46)
+Git#0>Receiving objects:  43% (20/46)
+Git#0>Receiving objects:  45% (21/46)
+Git#0>Receiving objects:  47% (22/46)
+Git#0>Receiving objects:  50% (23/46)
+Git#0>Receiving objects:  52% (24/46)
+Git#0>Receiving objects:  54% (25/46)
+Git#0>Receiving objects:  56% (26/46)
+Git#0>Receiving objects:  58% (27/46)
+Git#0>Receiving objects:  60% (28/46)
+Git#0>Receiving objects:  63% (29/46)
+Git#0>Receiving objects:  65% (30/46)
+Git#0>Receiving objects:  67% (31/46)
+Git#0>Receiving objects:  69% (32/46)
+Git#0>Receiving objects:  71% (33/46)
+Git#0>Receiving objects:  73% (34/46)
+Git#0>Receiving objects:  76% (35/46)
+Git#0>Receiving objects:  78% (36/46)
+Git#0>Receiving objects:  80% (37/46)
+Git#0>Receiving objects:  82% (38/46)
+Git#0>Receiving objects:  84% (39/46)
+Git#0>Receiving objects:  86% (40/46)
+Git#0>Receiving objects:  89% (41/46)
+Git#0>Receiving objects:  91% (42/46)
+Git#0>Receiving objects:  93% (43/46)
+Git#0>Receiving objects:  95% (44/46)
+Git#0>Receiving objects:  97% (45/46)
+Git#0>Receiving objects: 100% (46/46)
+Git#0>Receiving objects: 100% (46/46), 6.89 KiB | 2.29 MiB/s, done.
+Git#0>Resolving deltas:   0% (0/11)
+Git#0>Resolving deltas:   9% (1/11)
+Git#0>Resolving deltas:  18% (2/11)
+Git#0>Resolving deltas:  27% (3/11)
+Git#0>Resolving deltas:  36% (4/11)
+Git#0>Resolving deltas:  45% (5/11)
+Git#0>Resolving deltas:  54% (6/11)
+Git#0>Resolving deltas:  63% (7/11)
+Git#0>Resolving deltas:  72% (8/11)
+Git#0>Resolving deltas:  81% (9/11)
+Git#0>Resolving deltas:  90% (10/11)
+Git#0>Resolving deltas: 100% (11/11)
+Git#0>Resolving deltas: 100% (11/11), done.
+Git#1>HEAD is now at 36b22d4 Upload mtb-example-empty-app [2792]
+Acquired application source successfully.
+Loading the application.
+Loaded the application successfully.
+Processing project 'Sythesizer'.
+Starting to commit changes to the filesystem and project 'mtb-example-empty-app'.
+Writing mtb file for asset 'CY8CKIT-062-WIFI-BT' to the folder 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer/deps'.
+Writing mtb file for asset 'cat1cm0p' to the folder 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs'.
+Writing mtb file for asset 'core-lib' to the folder 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs'.
+Writing mtb file for asset 'core-make' to the folder 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs'.
+Writing mtb file for asset 'mtb-hal-cat1' to the folder 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs'.
+Writing mtb file for asset 'mtb-pdl-cat1' to the folder 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs'.
+Writing mtb file for asset 'recipe-make-cat1a' to the folder 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs'.
+Writing mtb file for asset 'udb-sdio-whd' to the folder 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs'.
+Writing mtb file for asset 'bt-fw-mur-cyw4343w' to the folder 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs'.
+Writing mtb file for asset 'cmsis' to the folder 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs'.
+Writing mtb file for asset 'device-db' to the folder 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs'.
+Git#2>Starting: git -C C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs clone --progress --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-062-WIFI-BT TARGET_CY8CKIT-062-WIFI-BT
+Git#3>Starting: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/cat1cm0p/release-v1.10.0 -c advice.detachedHead=false checkout --progress release-v1.10.0
+Git#4>Starting: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/core-lib/release-v1.7.0 -c advice.detachedHead=false checkout --progress release-v1.7.0
+Git#5>Starting: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/core-make/release-v3.9.0 -c advice.detachedHead=false checkout --progress release-v3.9.0
+Git#2>Cloning into 'TARGET_CY8CKIT-062-WIFI-BT'...
+Git#4>HEAD is now at b2a7ce7 Upload core-lib [4611]
+Git#3>HEAD is now at 1335169 Upload cat1cm0p 1.10.0.677 [4609]
+Git#4>Success: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/core-lib/release-v1.7.0 -c advice.detachedHead=false checkout --progress release-v1.7.0
+Git#6>Starting: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/mtb-hal-cat1/release-v2.7.4 -c advice.detachedHead=false checkout --progress release-v2.7.4
+Git#3>Success: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/cat1cm0p/release-v1.10.0 -c advice.detachedHead=false checkout --progress release-v1.10.0
+Git#7>Starting: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/mtb-pdl-cat1/release-v3.21.1 -c advice.detachedHead=false checkout --progress release-v3.21.1
+Git#5>HEAD is now at 878e5ae Upload core-make [4881]
+Git#5>Success: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/core-make/release-v3.9.0 -c advice.detachedHead=false checkout --progress release-v3.9.0
+Git#8>Starting: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/recipe-make-cat1a/release-v2.7.0 -c advice.detachedHead=false checkout --progress release-v2.7.0
+Git#8>HEAD is now at ee88021 Upload recipe-make-cat1a [4740]
+Git#8>Success: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/recipe-make-cat1a/release-v2.7.0 -c advice.detachedHead=false checkout --progress release-v2.7.0
+Git#9>Starting: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/udb-sdio-whd/release-v1.2.1 -c advice.detachedHead=false checkout --progress release-v1.2.1
+Git#6>HEAD is now at c255813 Upload mtb-hal-cat1 [3856]
+Git#6>Success: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/mtb-hal-cat1/release-v2.7.4 -c advice.detachedHead=false checkout --progress release-v2.7.4
+Git#10>Starting: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/bt-fw-mur-cyw4343w/release-v1.0.0 -c advice.detachedHead=false checkout --progress release-v1.0.0
+Git#9>HEAD is now at 9ecf7fb Upload udb-sdio-whd [990]
+Git#9>Success: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/udb-sdio-whd/release-v1.2.1 -c advice.detachedHead=false checkout --progress release-v1.2.1
+Git#11>Starting: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/cmsis/release-v6.1.0 -c advice.detachedHead=false checkout --progress release-v6.1.0
+Git#10>HEAD is now at 7872a48 Upload bt-fw-mur-cyw4343w 1.0.0.2595 [3108]
+Git#10>Success: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/bt-fw-mur-cyw4343w/release-v1.0.0 -c advice.detachedHead=false checkout --progress release-v1.0.0
+Git#12>Starting: git -C C:/Users/Hansv/.modustoolbox/global/device-db/release-v4.37.0 -c advice.detachedHead=false checkout --progress release-v4.37.0
+Git#11>HEAD is now at d00730d Upload cmsis 6.1.0.171 [3998]
+Git#11>Success: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/cmsis/release-v6.1.0 -c advice.detachedHead=false checkout --progress release-v6.1.0
+Git#7>HEAD is now at 53804bf Upload mtb-pdl-cat1 3.21.1.46179 [4889]
+Git#7>Success: git -C C:/Fork/project2-synthesizer-team-jojo/mtb_shared/mtb-pdl-cat1/release-v3.21.1 -c advice.detachedHead=false checkout --progress release-v3.21.1
+Git#2>remote: Enumerating objects: 197, done.        
+Git#2>remote: Counting objects:   1% (1/68)        
+Git#2>remote: Counting objects:   2% (2/68)        
+Git#2>remote: Counting objects:   4% (3/68)        
+Git#2>remote: Counting objects:   5% (4/68)        
+Git#2>remote: Counting objects:   7% (5/68)        
+Git#2>remote: Counting objects:   8% (6/68)        
+Git#2>remote: Counting objects:  10% (7/68)        
+Git#2>remote: Counting objects:  11% (8/68)        
+Git#2>remote: Counting objects:  13% (9/68)        
+Git#2>remote: Counting objects:  14% (10/68)        
+Git#2>remote: Counting objects:  16% (11/68)        
+Git#2>remote: Counting objects:  17% (12/68)        
+Git#2>remote: Counting objects:  19% (13/68)        
+Git#2>remote: Counting objects:  20% (14/68)        
+Git#2>remote: Counting objects:  22% (15/68)        
+Git#2>remote: Counting objects:  23% (16/68)        
+Git#2>remote: Counting objects:  25% (17/68)        
+Git#2>remote: Counting objects:  26% (18/68)        
+Git#2>remote: Counting objects:  27% (19/68)        
+Git#2>remote: Counting objects:  29% (20/68)        
+Git#2>remote: Counting objects:  30% (21/68)        
+Git#2>remote: Counting objects:  32% (22/68)        
+Git#2>remote: Counting objects:  33% (23/68)        
+Git#2>remote: Counting objects:  35% (24/68)        
+Git#2>remote: Counting objects:  36% (25/68)        
+Git#2>remote: Counting objects:  38% (26/68)        
+Git#2>remote: Counting objects:  39% (27/68)        
+Git#2>remote: Counting objects:  41% (28/68)        
+Git#2>remote: Counting objects:  42% (29/68)        
+Git#2>remote: Counting objects:  44% (30/68)        
+Git#2>remote: Counting objects:  45% (31/68)        
+Git#2>remote: Counting objects:  47% (32/68)        
+Git#2>remote: Counting objects:  48% (33/68)        
+Git#2>remote: Counting objects:  50% (34/68)        
+Git#2>remote: Counting objects:  51% (35/68)        
+Git#2>remote: Counting objects:  52% (36/68)        
+Git#2>remote: Counting objects:  54% (37/68)        
+Git#2>remote: Counting objects:  55% (38/68)        
+Git#2>remote: Counting objects:  57% (39/68)        
+Git#2>remote: Counting objects:  58% (40/68)        
+Git#2>remote: Counting objects:  60% (41/68)        
+Git#2>remote: Counting objects:  61% (42/68)        
+Git#2>remote: Counting objects:  63% (43/68)        
+Git#2>remote: Counting objects:  64% (44/68)        
+Git#2>remote: Counting objects:  66% (45/68)        
+Git#2>remote: Counting objects:  67% (46/68)        
+Git#2>remote: Counting objects:  69% (47/68)        
+Git#2>remote: Counting objects:  70% (48/68)        
+Git#2>remote: Counting objects:  72% (49/68)        
+Git#2>remote: Counting objects:  73% (50/68)        
+Git#2>remote: Counting objects:  75% (51/68)        
+Git#2>remote: Counting objects:  76% (52/68)        
+Git#2>remote: Counting objects:  77% (53/68)        
+Git#2>remote: Counting objects:  79% (54/68)        
+Git#2>remote: Counting objects:  80% (55/68)        
+Git#2>remote: Counting objects:  82% (56/68)        
+Git#2>remote: Counting objects:  83% (57/68)        
+Git#2>remote: Counting objects:  85% (58/68)        
+Git#2>remote: Counting objects:  86% (59/68)        
+Git#2>remote: Counting objects:  88% (60/68)        
+Git#2>remote: Counting objects:  89% (61/68)        
+Git#2>remote: Counting objects:  91% (62/68)        
+Git#2>remote: Counting objects:  92% (63/68)        
+Git#2>remote: Counting objects:  94% (64/68)        
+Git#2>remote: Counting objects:  95% (65/68)        
+Git#2>remote: Counting objects:  97% (66/68)        
+Git#2>remote: Counting objects:  98% (67/68)        
+Git#2>remote: Counting objects: 100% (68/68)        
+Git#2>remote: Counting objects: 100% (68/68), done.        
+Git#2>remote: Compressing objects:   1% (1/54)        
+Git#2>remote: Compressing objects:   3% (2/54)        
+Git#2>remote: Compressing objects:   5% (3/54)        
+Git#2>remote: Compressing objects:   7% (4/54)        
+Git#2>remote: Compressing objects:   9% (5/54)        
+Git#2>remote: Compressing objects:  11% (6/54)        
+Git#2>remote: Compressing objects:  12% (7/54)        
+Git#2>remote: Compressing objects:  14% (8/54)        
+Git#2>remote: Compressing objects:  16% (9/54)        
+Git#2>remote: Compressing objects:  18% (10/54)        
+Git#2>remote: Compressing objects:  20% (11/54)        
+Git#2>remote: Compressing objects:  22% (12/54)        
+Git#2>remote: Compressing objects:  24% (13/54)        
+Git#2>remote: Compressing objects:  25% (14/54)        
+Git#2>remote: Compressing objects:  27% (15/54)        
+Git#2>remote: Compressing objects:  29% (16/54)        
+Git#2>remote: Compressing objects:  31% (17/54)        
+Git#2>remote: Compressing objects:  33% (18/54)        
+Git#2>remote: Compressing objects:  35% (19/54)        
+Git#2>remote: Compressing objects:  37% (20/54)        
+Git#2>remote: Compressing objects:  38% (21/54)        
+Git#2>remote: Compressing objects:  40% (22/54)        
+Git#2>remote: Compressing objects:  42% (23/54)        
+Git#2>remote: Compressing objects:  44% (24/54)        
+Git#2>remote: Compressing objects:  46% (25/54)        
+Git#2>remote: Compressing objects:  48% (26/54)        
+Git#2>remote: Compressing objects:  50% (27/54)        
+Git#2>remote: Compressing objects:  51% (28/54)        
+Git#2>remote: Compressing objects:  53% (29/54)        
+Git#2>remote: Compressing objects:  55% (30/54)        
+Git#2>remote: Compressing objects:  57% (31/54)        
+Git#2>remote: Compressing objects:  59% (32/54)        
+Git#2>remote: Compressing objects:  61% (33/54)        
+Git#2>remote: Compressing objects:  62% (34/54)        
+Git#2>remote: Compressing objects:  64% (35/54)        
+Git#2>remote: Compressing objects:  66% (36/54)        
+Git#2>remote: Compressing objects:  68% (37/54)        
+Git#2>remote: Compressing objects:  70% (38/54)        
+Git#2>remote: Compressing objects:  72% (39/54)        
+Git#2>remote: Compressing objects:  74% (40/54)        
+Git#2>remote: Compressing objects:  75% (41/54)        
+Git#2>remote: Compressing objects:  77% (42/54)        
+Git#2>remote: Compressing objects:  79% (43/54)        
+Git#2>remote: Compressing objects:  81% (44/54)        
+Git#2>remote: Compressing objects:  83% (45/54)        
+Git#2>remote: Compressing objects:  85% (46/54)        
+Git#2>remote: Compressing objects:  87% (47/54)        
+Git#2>remote: Compressing objects:  88% (48/54)        
+Git#2>remote: Compressing objects:  90% (49/54)        
+Git#2>remote: Compressing objects:  92% (50/54)        
+Git#2>remote: Compressing objects:  94% (51/54)        
+Git#2>remote: Compressing objects:  96% (52/54)        
+Git#2>remote: Compressing objects:  98% (53/54)        
+Git#2>remote: Compressing objects: 100% (54/54)        
+Git#2>remote: Compressing objects: 100% (54/54), done.        
+Git#2>remote: Total 197 (delta 20), reused 60 (delta 14), pack-reused 129 (from 1)        
+Git#2>Receiving objects:   0% (1/197)
+Git#2>Receiving objects:   1% (2/197)
+Git#2>Receiving objects:   2% (4/197)
+Git#2>Receiving objects:   3% (6/197)
+Git#2>Receiving objects:   4% (8/197)
+Git#2>Receiving objects:   5% (10/197)
+Git#2>Receiving objects:   6% (12/197)
+Git#2>Receiving objects:   7% (14/197)
+Git#2>Receiving objects:   8% (16/197)
+Git#2>Receiving objects:   9% (18/197)
+Git#2>Receiving objects:  10% (20/197)
+Git#2>Receiving objects:  11% (22/197)
+Git#2>Receiving objects:  12% (24/197)
+Git#2>Receiving objects:  13% (26/197)
+Git#2>Receiving objects:  14% (28/197)
+Git#2>Receiving objects:  15% (30/197)
+Git#2>Receiving objects:  16% (32/197)
+Git#2>Receiving objects:  17% (34/197)
+Git#2>Receiving objects:  18% (36/197)
+Git#2>Receiving objects:  19% (38/197)
+Git#2>Receiving objects:  20% (40/197)
+Git#2>Receiving objects:  21% (42/197)
+Git#2>Receiving objects:  22% (44/197)
+Git#2>Receiving objects:  23% (46/197)
+Git#2>Receiving objects:  24% (48/197)
+Git#2>Receiving objects:  25% (50/197)
+Git#2>Receiving objects:  26% (52/197)
+Git#2>Receiving objects:  27% (54/197)
+Git#2>Receiving objects:  28% (56/197)
+Git#2>Receiving objects:  29% (58/197)
+Git#2>Receiving objects:  30% (60/197)
+Git#2>Receiving objects:  31% (62/197)
+Git#2>Receiving objects:  32% (64/197)
+Git#2>Receiving objects:  33% (66/197)
+Git#2>Receiving objects:  34% (67/197)
+Git#2>Receiving objects:  35% (69/197)
+Git#2>Receiving objects:  36% (71/197)
+Git#2>Receiving objects:  37% (73/197)
+Git#2>Receiving objects:  38% (75/197)
+Git#2>Receiving objects:  39% (77/197)
+Git#2>Receiving objects:  40% (79/197)
+Git#2>Receiving objects:  41% (81/197)
+Git#2>Receiving objects:  42% (83/197)
+Git#2>Receiving objects:  43% (85/197)
+Git#2>Receiving objects:  44% (87/197)
+Git#2>Receiving objects:  45% (89/197)
+Git#2>Receiving objects:  46% (91/197)
+Git#2>Receiving objects:  47% (93/197)
+Git#2>Receiving objects:  48% (95/197)
+Git#2>Receiving objects:  49% (97/197)
+Git#2>Receiving objects:  50% (99/197)
+Git#2>Receiving objects:  51% (101/197)
+Git#2>Receiving objects:  52% (103/197)
+Git#2>Receiving objects:  53% (105/197)
+Git#2>Receiving objects:  54% (107/197)
+Git#2>Receiving objects:  55% (109/197)
+Git#2>Receiving objects:  56% (111/197)
+Git#2>Receiving objects:  57% (113/197)
+Git#2>Receiving objects:  58% (115/197)
+Git#2>Receiving objects:  59% (117/197)
+Git#2>Receiving objects:  60% (119/197)
+Git#2>Receiving objects:  61% (121/197)
+Git#2>Receiving objects:  62% (123/197)
+Git#2>Receiving objects:  63% (125/197)
+Git#2>Receiving objects:  64% (127/197)
+Git#2>Receiving objects:  65% (129/197)
+Git#2>Receiving objects:  66% (131/197)
+Git#2>Receiving objects:  67% (132/197)
+Git#2>Receiving objects:  68% (134/197)
+Git#2>Receiving objects:  69% (136/197)
+Git#2>Receiving objects:  70% (138/197)
+Git#2>Receiving objects:  71% (140/197)
+Git#2>Receiving objects:  72% (142/197)
+Git#2>Receiving objects:  73% (144/197)
+Git#2>Receiving objects:  74% (146/197)
+Git#2>Receiving objects:  75% (148/197)
+Git#2>Receiving objects:  76% (150/197)
+Git#2>Receiving objects:  77% (152/197)
+Git#2>Receiving objects:  78% (154/197)
+Git#2>Receiving objects:  79% (156/197)
+Git#2>Receiving objects:  80% (158/197)
+Git#2>Receiving objects:  81% (160/197)
+Git#2>Receiving objects:  82% (162/197)
+Git#2>Receiving objects:  83% (164/197)
+Git#2>Receiving objects:  84% (166/197)
+Git#2>Receiving objects:  85% (168/197)
+Git#2>Receiving objects:  86% (170/197)
+Git#2>Receiving objects:  87% (172/197)
+Git#2>Receiving objects:  88% (174/197)
+Git#2>Receiving objects:  89% (176/197)
+Git#2>Receiving objects:  90% (178/197)
+Git#2>Receiving objects:  91% (180/197)
+Git#2>Receiving objects:  92% (182/197)
+Git#2>Receiving objects:  93% (184/197)
+Git#2>Receiving objects:  94% (186/197)
+Git#2>Receiving objects:  95% (188/197)
+Git#2>Receiving objects:  96% (190/197)
+Git#2>Receiving objects:  97% (192/197)
+Git#2>Receiving objects:  98% (194/197)
+Git#2>Receiving objects:  99% (196/197)
+Git#2>Receiving objects: 100% (197/197)
+Git#2>Receiving objects: 100% (197/197), 41.44 KiB | 3.19 MiB/s, done.
+Git#2>Resolving deltas:   0% (0/50)
+Git#2>Resolving deltas:   2% (1/50)
+Git#2>Resolving deltas:   4% (2/50)
+Git#2>Resolving deltas:   8% (4/50)
+Git#2>Resolving deltas:  10% (5/50)
+Git#2>Resolving deltas:  12% (6/50)
+Git#2>Resolving deltas:  14% (7/50)
+Git#2>Resolving deltas:  16% (8/50)
+Git#2>Resolving deltas:  18% (9/50)
+Git#2>Resolving deltas:  20% (10/50)
+Git#2>Resolving deltas:  22% (11/50)
+Git#2>Resolving deltas:  24% (12/50)
+Git#2>Resolving deltas:  26% (13/50)
+Git#2>Resolving deltas:  30% (15/50)
+Git#2>Resolving deltas:  32% (16/50)
+Git#2>Resolving deltas:  34% (17/50)
+Git#2>Resolving deltas:  36% (18/50)
+Git#2>Resolving deltas:  38% (19/50)
+Git#2>Resolving deltas:  40% (20/50)
+Git#2>Resolving deltas:  42% (21/50)
+Git#2>Resolving deltas:  46% (23/50)
+Git#2>Resolving deltas:  48% (24/50)
+Git#2>Resolving deltas:  52% (26/50)
+Git#2>Resolving deltas:  54% (27/50)
+Git#2>Resolving deltas:  56% (28/50)
+Git#2>Resolving deltas:  58% (29/50)
+Git#2>Resolving deltas:  60% (30/50)
+Git#2>Resolving deltas:  62% (31/50)
+Git#2>Resolving deltas:  64% (32/50)
+Git#2>Resolving deltas:  66% (33/50)
+Git#2>Resolving deltas:  68% (34/50)
+Git#2>Resolving deltas:  70% (35/50)
+Git#2>Resolving deltas:  72% (36/50)
+Git#2>Resolving deltas:  74% (37/50)
+Git#2>Resolving deltas:  76% (38/50)
+Git#2>Resolving deltas:  78% (39/50)
+Git#2>Resolving deltas:  80% (40/50)
+Git#2>Resolving deltas:  82% (41/50)
+Git#2>Resolving deltas:  84% (42/50)
+Git#2>Resolving deltas:  88% (44/50)
+Git#2>Resolving deltas:  90% (45/50)
+Git#2>Resolving deltas:  92% (46/50)
+Git#2>Resolving deltas:  94% (47/50)
+Git#2>Resolving deltas:  96% (48/50)
+Git#2>Resolving deltas:  98% (49/50)
+Git#2>Resolving deltas: 100% (50/50)
+Git#2>Resolving deltas: 100% (50/50), done.
+Git#2>Success: git -C C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs clone --progress --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-062-WIFI-BT TARGET_CY8CKIT-062-WIFI-BT
+Git#13>Starting: git -C C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs/TARGET_CY8CKIT-062-WIFI-BT -c advice.detachedHead=false checkout --progress release-v5.0.1
+Git#12>HEAD is now at c06fce9a Upload device-db 4.37.0.10260 [4794]
+Git#12>Success: git -C C:/Users/Hansv/.modustoolbox/global/device-db/release-v4.37.0 -c advice.detachedHead=false checkout --progress release-v4.37.0
+Git#13>Updating files:   1% (3/154)
+Git#13>Updating files:   2% (4/154)
+Git#13>Updating files:   3% (5/154)
+Git#13>Updating files:   4% (7/154)
+Git#13>Updating files:   5% (8/154)
+Git#13>Updating files:   6% (10/154)
+Git#13>Updating files:   7% (11/154)
+Git#13>Updating files:   8% (13/154)
+Git#13>Updating files:   9% (14/154)
+Git#13>Updating files:  10% (16/154)
+Git#13>Updating files:  11% (17/154)
+Git#13>Updating files:  12% (19/154)
+Git#13>Updating files:  13% (21/154)
+Git#13>Updating files:  14% (22/154)
+Git#13>Updating files:  15% (24/154)
+Git#13>Updating files:  16% (25/154)
+Git#13>Updating files:  17% (27/154)
+Git#13>Updating files:  18% (28/154)
+Git#13>Updating files:  19% (30/154)
+Git#13>Updating files:  20% (31/154)
+Git#13>Updating files:  21% (33/154)
+Git#13>Updating files:  22% (34/154)
+Git#13>Updating files:  23% (36/154)
+Git#13>Updating files:  24% (37/154)
+Git#13>Updating files:  25% (39/154)
+Git#13>Updating files:  26% (41/154)
+Git#13>Updating files:  27% (42/154)
+Git#13>Updating files:  28% (44/154)
+Git#13>Updating files:  29% (45/154)
+Git#13>Updating files:  30% (47/154)
+Git#13>Updating files:  31% (48/154)
+Git#13>Updating files:  32% (50/154)
+Git#13>Updating files:  33% (51/154)
+Git#13>Updating files:  34% (53/154)
+Git#13>Updating files:  35% (54/154)
+Git#13>Updating files:  36% (56/154)
+Git#13>Updating files:  37% (57/154)
+Git#13>Updating files:  38% (59/154)
+Git#13>Updating files:  39% (61/154)
+Git#13>Updating files:  40% (62/154)
+Git#13>Updating files:  41% (64/154)
+Git#13>Updating files:  42% (65/154)
+Git#13>Updating files:  43% (67/154)
+Git#13>Updating files:  44% (68/154)
+Git#13>Updating files:  45% (70/154)
+Git#13>Updating files:  46% (71/154)
+Git#13>Updating files:  47% (73/154)
+Git#13>Updating files:  48% (74/154)
+Git#13>Updating files:  49% (76/154)
+Git#13>Updating files:  50% (77/154)
+Git#13>Updating files:  51% (79/154)
+Git#13>Updating files:  52% (81/154)
+Git#13>Updating files:  53% (82/154)
+Git#13>Updating files:  54% (84/154)
+Git#13>Updating files:  55% (85/154)
+Git#13>Updating files:  56% (87/154)
+Git#13>Updating files:  57% (88/154)
+Git#13>Updating files:  58% (90/154)
+Git#13>Updating files:  59% (91/154)
+Git#13>Updating files:  60% (93/154)
+Git#13>Updating files:  61% (94/154)
+Git#13>Updating files:  62% (96/154)
+Git#13>Updating files:  63% (98/154)
+Git#13>Updating files:  64% (99/154)
+Git#13>Updating files:  65% (101/154)
+Git#13>Updating files:  66% (102/154)
+Git#13>Updating files:  67% (104/154)
+Git#13>Updating files:  68% (105/154)
+Git#13>Updating files:  69% (107/154)
+Git#13>Updating files:  70% (108/154)
+Git#13>Updating files:  71% (110/154)
+Git#13>Updating files:  72% (111/154)
+Git#13>Updating files:  73% (113/154)
+Git#13>Updating files:  74% (114/154)
+Git#13>Updating files:  75% (116/154)
+Git#13>Updating files:  76% (118/154)
+Git#13>Updating files:  77% (119/154)
+Git#13>Updating files:  78% (121/154)
+Git#13>Updating files:  79% (122/154)
+Git#13>Updating files:  80% (124/154)
+Git#13>Updating files:  81% (125/154)
+Git#13>Updating files:  82% (127/154)
+Git#13>Updating files:  83% (128/154)
+Git#13>Updating files:  84% (130/154)
+Git#13>Updating files:  85% (131/154)
+Git#13>Updating files:  86% (133/154)
+Git#13>Updating files:  87% (134/154)
+Git#13>Updating files:  88% (136/154)
+Git#13>Updating files:  89% (138/154)
+Git#13>Updating files:  90% (139/154)
+Git#13>Updating files:  91% (141/154)
+Git#13>Updating files:  92% (142/154)
+Git#13>Updating files:  93% (144/154)
+Git#13>Updating files:  94% (145/154)
+Git#13>Updating files:  95% (147/154)
+Git#13>Updating files:  96% (148/154)
+Git#13>Updating files:  97% (150/154)
+Git#13>Updating files:  98% (151/154)
+Git#13>Updating files:  99% (153/154)
+Git#13>Updating files: 100% (154/154)
+Git#13>Updating files: 100% (154/154), done.
+Git#13>HEAD is now at 34ae298 Upload TARGET_CY8CKIT-062-WIFI-BT [3403]
+Git#13>Success: git -C C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs/TARGET_CY8CKIT-062-WIFI-BT -c advice.detachedHead=false checkout --progress release-v5.0.1
+Requested to change the active target to 'APP_CY8CKIT-062-WIFI-BT'.
+Removed the file 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer/deps/TARGET_CY8CKIT-062-WIFI-BT.mtb'.
+Writing the file 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer/libs/app.mk'.
+Successfully committed changes to the project 'mtb-example-empty-app'.
+Project "Sythesizer" created successfully.
+Successfully created "Sythesizer" application.
+==============================================================================
+= Export "Sythesizer" application to Eclipse IDE for ModusToolbox™ =
+==============================================================================
+make eclipse CY_IDE_PRJNAME=Sythesizer CY_MAKE_IDE=eclipse CY_MAKE_IDE_VERSION=2025.8 CY_TOOLS_PATHS=C:/Users/Hansv/ModusToolbox/tools_3.5 MTB_MAKE_ECLIPSE_FORCE_REGENERATE_PROJECT=1
+Tools Directory: C:/Users/Hansv/ModusToolbox/tools_3.5
+Searching installed tools in progress...
+Searching installed tools complete
+NOTE: Using 'C:/Users/Hansv/ModusToolbox/tools_3.5/ninja/ninja.exe' from PATH.
+Generating mtbninja data files...
+Generating mtbninja data complete...
+Prebuild operations complete
+Toolchain validation: PASS
+Initializing build: mtb-example-empty-app Debug APP_CY8CKIT-062-WIFI-BT GCC_ARM
+# 0: Loading the application in directory 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer'
+# 0: Loading the ModusToolbox Technology Packs and Early Access Packs
+# 0: Loading the tools information
+# 0: Starting code generator 'capsense-configurator-cli '
+# 0: Starting code generator 'device-configurator-cli '
+Tools Directory: C:/Users/Hansv/ModusToolbox/tools_3.5
+NOTE: Using 'C:/Users/Hansv/ModusToolbox/tools_3.5/ninja/ninja.exe' from PATH.
+Generating mtbninja data files...
+Generating mtbninja data complete...
+Toolchain validation: PASS
+Initializing build: mtb-example-empty-app Debug APP_CY8CKIT-062-WIFI-BT GCC_ARM
+Prebuild operations complete
+# 0: Loading the application in directory 'C:/Fork/project2-synthesizer-team-jojo/Sythesizer'
+# 0: Loading the ModusToolbox Technology Packs and Early Access Packs
+# 0: Loading the tools information
+Generated .clangd
+Generated C:/Fork/project2-synthesizer-team-jojo/Sythesizer/.cproject
+Generated C:/Fork/project2-synthesizer-team-jojo/Sythesizer/.project
+Generated C:/Fork/project2-synthesizer-team-jojo/Sythesizer/.mtbLaunchConfigs/Sythesizer Program.launch
+Generated C:/Fork/project2-synthesizer-team-jojo/Sythesizer/.mtbLaunchConfigs/Sythesizer Erase Device.launch
+Generated C:/Fork/project2-synthesizer-team-jojo/Sythesizer/.mtbLaunchConfigs/Advanced KitProg3 Programming.launch
+Generated C:/Fork/project2-synthesizer-team-jojo/Sythesizer/.mtbLaunchConfigs/Sythesizer Attach (KitProg3_MiniProg4).launch
+Generated C:/Fork/project2-synthesizer-team-jojo/Sythesizer/.mtbLaunchConfigs/Sythesizer Debug (KitProg3_MiniProg4).launch
+
+Instructions:
+1. Open Eclipse IDE for ModusToolbox
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+3. Browse to the application root directory
+
+For more information, refer to the Eclipse IDE for ModusToolbox user guide.
+
+The application "Sythesizer" was successfully exported to Eclipse IDE for ModusToolbox™.
+0 error(s), 0 warning(s)
+
+Summary:
+
+Successfully created and exported "Sythesizer" application.
